@@ -1,0 +1,25 @@
+{
+  "name": "chakra-ui-next-js-and-typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "latest",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@types/react": "17.0.3",
+    "framer-motion": "latest",
+    "@types/node": "14.14.35",
+    "next": "latest",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "typescript": "4.2.3"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}
